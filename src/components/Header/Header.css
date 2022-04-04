@@ -1,0 +1,15 @@
+.header{
+    height: 30px;
+    background-color: darkorchid;
+    align-items: center;
+    
+}
+.header a{
+    color: #FFF;
+    font-size: 15px;
+    margin-left: 36px;
+    
+}
+.header a:hover{
+    color: rgba(0, 255, 255, 0.801);
+}
