@@ -9,7 +9,7 @@ const Review = () => {
         fetch('reviews.json')
             .then(res => res.json())
             .then(data => setReviews(data))
-    }, []);
+    }, [reviews]);
     return (
         <section>
             <div>
@@ -26,7 +26,7 @@ const Review = () => {
                 </div>
                 <div className='cart-container'>
                     {
-                        reviews.map((review) => <Cart
+                        reviews.slice(0, 3).map((review) => <Cart
                             key={review.id}
                             review={review}>
                         </Cart>)
