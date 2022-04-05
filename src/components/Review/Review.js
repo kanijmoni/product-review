@@ -14,11 +14,12 @@ const Review = () => {
         <section>
             <div>
                 <div className='best-watch'>
-                    <h1>Your Best Watch</h1>
-                    <p>You can choose any of this watch.These are the best watches I have ever seen.</p>
-                    <button id='button'>Live Demo</button>
-                </div>
+                    <h1> Choose a Watch</h1>
 
+                    <p>You can choose any of this watch.These are the best watches as far as I know.These are the trendy watch for now.All products sold on this brand are 100% authentic guaranteed. This brand purchases its inventory via authorized dealers or respected industry wholesalers/distributors.</p>
+                    <button id='button'>Live Demo</button>
+                    <img src="image" alt=""></img>
+                </div>
             </div>
             <div>
                 <div className='review'>

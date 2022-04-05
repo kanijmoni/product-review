@@ -3,36 +3,42 @@
         "id": "624b28e060212e3d8f17e10e",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vJ_OWTlIYgn3gct91ug8z51tPL0y_Dhf5Q&usqp=CAU",
         "name": "Cole Bright",
-        "ratings": 5
+        "reviews": "Great purchasing experience! Very good communication throughout the process.",
+        "ratings": "5 Star"
     },
     {
         "id": "624b28e0db9b1b6d8e2607eb",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7ZCpb21zt3hQvqxu96kBYnnFzRLv8dzVFw&usqp=CAU",
         "name": "Knight Paul",
-        "ratings": 5
+        "reviews": "All went well, including international shipping.Great price / Great service.",
+        "ratings": "4 Star"
     },
     {
         "id": "624b28e0406fad98d6c32ecb",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_bZVtu-PddY_qhswZvb8mjbcupdRazjY_w&usqp=CAU",
         "name": "Nguyen Nguyen",
-        "ratings": 5
+        "reviews": "Great dealer. Super quick shipping. I now have six Sumo’s and the SPB181J1 is by far my favorite!",
+        "ratings": "5 Star"
     },
     {
         "id": "624b28e0423cce79039d5356",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4CyqyrhRvUH5_VqTvbhG9nic3tZY_nJ5PA&usqp=CAU",
         "name": "Cole Bright",
-        "ratings": 5
+        "reviews": "Quick replies. Everything as expected.",
+        "ratings": "5 Star"
     },
     {
         "id": "624b28e0330e1af7c0d200f3",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAow4o83Lcyh1oR4Huj3F837w8DKc0s6-wg&usqp=CAU",
         "name": "Gallegos Mack",
-        "ratings": 5
+        "reviews": "Great transaction.",
+        "ratings": "4.5 Star"
     },
     {
         "id": "624b28e05e9993e5cf1b930a",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtwcGm4AQnPv_n8iVk6Il1D4Uoh76CAapTg&usqp=CAU",
         "name": "Best Carver",
-        "ratings": 5
+        "reviews": "I was hesitant with some of the reviews. I wasn’t purchasing the most expensive watch, so I figured I would take the risk. I was pleasantly surprised with the speed and quality.",
+        "ratings": "5 Star"
     }
 ]
