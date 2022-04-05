@@ -1,0 +1,8 @@
+.reviews{
+    font-size: 25px;
+}
+.cart-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:30px
+}
