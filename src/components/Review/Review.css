@@ -1,8 +1,28 @@
-.reviews{
+.best-watch{
+    font-size: 30px;
+    width: 50%;
+}
+#button{
+    height: 45px;
+    width: 80px;
+    color: black;
+    background-color: rgb(192, 192, 224);
+    border-radius: 5px;
+   
+}
+.review{
     font-size: 25px;
+margin-top: 20px;
 }
 .cart-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap:30px
+    padding: 2px;
+    gap: 1px;
+}
+.button{
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    background-color: rgb(170, 170, 211);
 }

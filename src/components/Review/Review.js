@@ -10,20 +10,32 @@ const Review = () => {
             .then(data => setReviews(data))
     }, []);
     return (
-        <div>
-            <div className='reviews'>
-                <h2>Customer Reviews(3)</h2>
-            </div>
-            <div className='cart-container'>
-                {
-                    reviews.map((review) => <Cart
-                        key={review.id}
-                        review={review}>
-                    </Cart>)
+        <section>
+            <div>
+                <div className='best-watch'>
+                    <h1>Your Best Watch</h1>
+                    <p>You can choose any of this watch.These are the best watches I have ever seen.</p>
+                    <button id='button'>Live Demo</button>
+                </div>
 
-                }
             </div>
-        </div>
+            <div>
+                <div className='review'>
+                    <h2>Customer Reviews(3)</h2>
+                </div>
+                <div className='cart-container'>
+                    {
+                        reviews.map((review) => <Cart
+                            key={review.id}
+                            review={review}>
+                        </Cart>)
+                    }
+                </div>
+                <div>
+                    <button className='button'><p>See All Reviews...</p></button>
+                </div>
+            </div >
+        </section>
     );
 };
 
