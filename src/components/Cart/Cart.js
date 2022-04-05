@@ -1,6 +1,6 @@
 import React from 'react';
 import './Cart.css';
-const Cart = ({review}) => {
+const Cart = ({ review }) => {
 
     const { name, picture, ratings } = review;
     return (

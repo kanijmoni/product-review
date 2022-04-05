@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import Cart from '../Cart/Cart';
 import './Review.css';
 const Review = () => {
@@ -32,7 +33,9 @@ const Review = () => {
                     }
                 </div>
                 <div>
-                    <button className='button'><p>See All Reviews...</p></button>
+                    <Link to="/reviews">
+                        <button className='button'><p>See All Reviews...</p></button>
+                    </Link>
                 </div>
             </div >
         </section>
